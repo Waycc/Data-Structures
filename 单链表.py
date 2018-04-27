@@ -1,6 +1,6 @@
 class LNode:
     """
-    定义实现单链表的数据结构
+    定义实现单链表的结点数据结构
     """
     def __init__(self, elem, next_=None):
         self.elem = elem
